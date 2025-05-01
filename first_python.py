@@ -139,3 +139,4 @@ class Human:
 abbas=Human(2)
 print(abbas.capacity())
 
+
